@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Menu SYSTEM "Week22- G22.2 (DTD).dtd">
+<Menu>
+	<Dish>
+		<Starters>
+			<Name>Crispy Samosas</Name>
+			<Price>15 Rs</Price>
+		</Starters>
+		
+		<Starters>
+			<Name>Gateau Piment</Name>
+			<Price>10 Rs</Price>
+		</Starters>
+		
+		<Side_Dish>
+			<Name>Garlic Bread</Name>
+			<Price>20 Rs</Price>
+		</Side_Dish>
+		
+		<Side_Dish>
+			<Name>Potato Wedges</Name>
+			<Price>18 Rs</Price>
+		</Side_Dish>
+		
+		<Main_Course>
+			<Name>Butter Chicken</Name>
+			<Price>150 Rs</Price>
+		</Main_Course>
+		
+		<Main_Course>
+			<Name>Prawn Rougaille</Name>
+			<Price>175 Rs</Price>
+		</Main_Course>
+		
+		<Desert>
+			<Name>Macaron Orange</Name>
+			<Price>45 Rs</Price>
+		</Desert>
+		
+		<Desert>
+			<Name>Tiramisu</Name>
+			<Price>80 Rs</Price>
+		</Desert>
+	</Dish>
+</Menu>
